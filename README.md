@@ -1,4 +1,4 @@
-# How to update existing configs (e.g for marketplace, for network menu)?
+# How to update existing configs (e.g for marketplace, for network menu)? 
 
 1. Checkout to `dev` branch - `git checkout dev`
 2. Pull the latest changes in the repo - `git pull`
